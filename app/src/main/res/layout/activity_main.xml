@@ -15,4 +15,24 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <EditText
+        android:id="@+id/mainName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="I don't know what to write, but here is a button"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#00E23131"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="126dp" />
+
+    <Button
+        android:id="@+id/mainGoButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="You don't want to click"
+        tools:layout_editor_absoluteX="104dp"
+        tools:layout_editor_absoluteY="233dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
