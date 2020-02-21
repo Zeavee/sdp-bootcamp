@@ -1,1 +1,3 @@
 [![Build Status](https://travis-ci.org/Zeavee/sdp-bootcamp.svg?branch=master)](https://travis-ci.org/Zeavee/sdp-bootcamp)
+<a href="https://codeclimate.com/github/Zeavee/sdp-bootcamp/maintainability"><img src="https://api.codeclimate.com/v1/badges/450f7dad6e79e7a1d690/maintainability" /></a>
+<a href="https://codeclimate.com/github/Zeavee/sdp-bootcamp/test_coverage"><img src="https://api.codeclimate.com/v1/badges/450f7dad6e79e7a1d690/test_coverage" /></a>
